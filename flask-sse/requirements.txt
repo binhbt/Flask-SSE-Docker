@@ -2,3 +2,4 @@ flask
 redis
 Flask-SSE
 flask-blueprint
+uwsgi
